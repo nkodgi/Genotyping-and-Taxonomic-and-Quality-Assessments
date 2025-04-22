@@ -1,0 +1,4 @@
+Query	Reference	%ANI	Num_Fragments_Mapped	Total_Query_Fragments	%Query_Aligned	Basepairs_Query_Aligned
+/home/nkodgi/hw3/spades/SRR27160578_filtered_contigs.fna	/home/nkodgi/hw3/spades/GCF_020735925.1_ASM2073592v1_genomic.fna	99.9855	1455	1455	100	4365000
+/home/nkodgi/hw3/spades/SRR27160579_filtered_contigs.fna	/home/nkodgi/hw3/spades/GCF_020735925.1_ASM2073592v1_genomic.fna	99.9894	1482	1482	100	4446000
+/home/nkodgi/hw3/spades/SRR27160580_filtered_contigs.fna	/home/nkodgi/hw3/spades/GCF_020735925.1_ASM2073592v1_genomic.fna	99.9905	1471	1473	99.8642	4413000

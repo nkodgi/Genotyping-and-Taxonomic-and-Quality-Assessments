@@ -1,0 +1,5 @@
+Sample Name	Species	ST	Allele1	Allele2	Allele3	Allele4	Allele5	Allele6	Allele7
+/home/nkodgi/hw3/mlst/GCF_020735925.1_ASM2073592v1_genomic.fna	bordetella	19	adk(2)	fumC(2)	glyA(2)	tyrB(2)	icd(2)	pepA(2)	pgm(5)
+/home/nkodgi/hw3/mlst/SRR27160578_filtered_contigs.fna	bordetella	19	adk(2)	fumC(2)	glyA(2)	tyrB(2)	icd(2)	pepA(2)	pgm(5)
+/home/nkodgi/hw3/mlst/SRR27160579_filtered_contigs.fna	bordetella	19	adk(2)	fumC(2)	glyA(2)	tyrB(2)	icd(2)	pepA(2)	pgm(5)
+/home/nkodgi/hw3/mlst/SRR27160580_filtered_contigs.fna	bordetella	19	adk(2)	fumC(2)	glyA(2)	tyrB(2)	icd(2)	pepA(2)	pgm(5)
