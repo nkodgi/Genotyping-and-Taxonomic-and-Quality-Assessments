@@ -56,3 +56,8 @@ This workflow was executed on a 2-core machine using Conda-managed environments 
 | `BUSCO`     | Genome completeness estimation    |
 
 All tools were installed via **bioconda** or **conda-forge** channels using Conda.
+
+## 📝 Notes
+- Execution time for SPAdes assembly is longer on low-core CPUs (~20 mins per sample).
+- BUSCO results were manually interpreted due to the lack of explicit contamination metrics.
+
